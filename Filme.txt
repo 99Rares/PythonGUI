@@ -1,0 +1,7 @@
+Star-Wars_IV,1977,9.1,Mark Hamill;Harrison Ford;Carrie Fisher,20.0
+Avengers Endgame,2019,8.7,Robert Downey Jr.;Tom Holland;Scarlett Johansson;Chris Evans;Chris Hemsworth,60.0
+The Dark Knight,2008,9.0,Heath Ledger;Christian Bale,35.0
+Transformers,2017,5.2,Mark Wahlberg;Anthony Hopkins;Laura Haddock,10.0
+Spider-Man,2019,8.6,Tom Holland;Samuel L. Jackson;Jake Gyllenhaal,54.0
+Vodka,2020,10.0,Luca Koren;Dan Rares,45.0
+5gang,2019,10.0,selly;selly,1000.0

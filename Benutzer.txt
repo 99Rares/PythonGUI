@@ -1,0 +1,6 @@
+Rares,Dan,Star-Wars_IV;Avengers Endgame;The Dark Knight;Transformers;Spider-Man
+Bob,Ion,Transformers;Star-Wars_IV;Transformers;Joker
+Miruna,Danila,Star-Wars_IV
+asd,Rares,;Joker;;Joker;;Joker;;Joker
+Eugen,Ionnn,
+jjjj,ggg,
